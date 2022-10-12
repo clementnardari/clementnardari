@@ -2,7 +2,7 @@
 - 👀 I’m interested in Aerospace and data science
 - 🌱 I’m currently learning data science
 - 💻 I code mainly in Python. I architected datbases in: SQL, mongodB, Redis and Casandra. I used Docker to develop and deploy my applications. Below some libraries I used:
-    - Data Science: Scikit-Learn • TensorFlow • NumPy/SciPy/Matplotlib • seaborn • OpenCV • MediaPipe • gym
+    - Data Science: Scikit-Learn • TensorFlow • NumPy/SciPy/Matplotlib • seaborn • OpenCV • MediaPipe • gym • NLTK • beautifulsoup4
     - Data Engineering:	Flask • Dask • MPI • NiFi • Hadoop • Spark • Airflow • djitellopy • mapbox
 - 📚 A list of my publications:
     - [Numerical and Experimental Investigation of Flow Confinement Effects on UAV Rotor Noise](https://www.researchgate.net/publication/333196415_Numerical_and_Experimental_Investigation_of_Flow_Confinement_Effects_on_UAV_Rotor_Noise)
