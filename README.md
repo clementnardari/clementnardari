@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @clementnardari and I'm an Aerospace Engineer
-- 👀 I’m interested in Aerospace and data science
-- 🌱 I’m currently learning data science
-- 💻 I code mainly in Python. I architected datbases in: SQL, mongodB, Redis and Casandra. I used Docker to develop and deploy my applications. Below some libraries I used:
+- 👀 I’m interested in Aerospace and Data Science
+- 🌱 I’m currently learning Data Science
+- 💻 Computer skills: 
+    - Programming: Python • Shell scripting 
+    - Datbases: SQL • mongodB • Redis • Casandra
+    - Data Engineering:	Docker • Dask • Airflow • NiFi • Hadoop • Spark • MPI • Debezium
     - Data Science: Scikit-Learn • TensorFlow • NumPy/SciPy/Matplotlib • seaborn • OpenCV • MediaPipe • gym • NLTK • beautifulsoup4
-    - Data Engineering:	Flask • Dask • MPI • NiFi • Hadoop • Spark • Airflow • djitellopy • mapbox
+    - Web/API: Flask • Postmann • Bootstrap • Swagger • mapbox
+
 - 📚 A list of my publications:
     - [Numerical and Experimental Investigation of Flow Confinement Effects on UAV Rotor Noise](https://www.researchgate.net/publication/333196415_Numerical_and_Experimental_Investigation_of_Flow_Confinement_Effects_on_UAV_Rotor_Noise)
     - [Numerical and Experimental Investigation of Wingtip-Mounted Propellers](https://www.researchgate.net/publication/359797241_Numerical_and_Experimental_Investigation_of_Wingtip-Mounted_Propellers)
