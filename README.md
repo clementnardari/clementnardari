@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clementnardari and I'm an Aerospace Engineer
 - 👀 I’m interested in Aerospace and Data Science
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science and Data Engineering
 - 💻 Computer skills: 
     - Programming: Python • Shell scripting 
     - Datbases: SQL • mongodB • Redis • Casandra
