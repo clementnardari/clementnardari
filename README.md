@@ -4,7 +4,7 @@
 - 💻 Computer skills: 
     - Programming: Python • Shell scripting 
     - Datbases: SQL • mongodB • Redis • Casandra
-    - Data Engineering:	Docker • Dask • Airflow • NiFi • Hadoop • Spark • MPI • Debezium • Kafka
+    - Data Engineering:	Docker • Dask • Airflow • NiFi • Hadoop • Spark • MPI • Debezium • Kafka • Mosquitto
     - Data Science: Scikit-Learn • TensorFlow • NumPy/SciPy/Matplotlib • seaborn • OpenCV • MediaPipe • gym • NLTK • beautifulsoup4
     - Web/API: Flask • Postmann • Bootstrap • Swagger • mapbox
 
