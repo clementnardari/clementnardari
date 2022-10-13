@@ -13,7 +13,7 @@
     - [Numerical and Experimental Investigation of Wingtip-Mounted Propellers](https://www.researchgate.net/publication/359797241_Numerical_and_Experimental_Investigation_of_Wingtip-Mounted_Propellers)
     - [Exhaust and Muffler Aeroacoustics Predictions using Lattice Boltzmann Method](https://www.researchgate.net/publication/324189399_Exhaust_and_Muffler_Aeroacoustics_Predictions_using_Lattice_Boltzmann_Method)
     - [Lattice-Boltzmann Very Large Eddy Simulations of an Underexpanded Jet from a Rectangular Nozzle with and without Aft-deck](https://www.researchgate.net/publication/335212581_Lattice-Boltzmann_Very_Large_Eddy_Simulations_of_an_Underexpanded_Jet_from_a_Rectangular_Nozzle_with_and_without_Aft-deck)
-- 💞️ I’m looking to collaborate on Aerospace or data science
+- 💞️ I’m looking to collaborate on Aerospace or Data Science topics
 - 📫 How to reach me www.linkedin.com/in/clement-nardari/
 <!---
 clementnardari/clementnardari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
