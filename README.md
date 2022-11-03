@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Data Science and Data Engineering
 - 💻 Computer skills: 
     - Programming: Python • Shell scripting 
-    - Datbases: SQL • mongodB • Redis • Casandra
-    - Data Engineering:	Docker • Dask • Airflow • NiFi • Hadoop • Spark • MPI • Debezium • Kafka • Mosquitto • Firebase
+    - Datbases: SQL • mongodB • Redis • Casandra • Firebase
+    - Data Engineering:	Docker • Dask • Airflow • NiFi • Hadoop • Spark • MPI • Debezium • Kafka • Mosquitto
     - Data Science: Scikit-Learn • TensorFlow • NumPy/SciPy/Matplotlib • seaborn • OpenCV • MediaPipe • gym • NLTK • beautifulsoup4
     - Web/API: Flask • Postmann • Bootstrap • Swagger • mapbox
 
